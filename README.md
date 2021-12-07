@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
+<p align="center"> I am aayushi Sharma. I Love ❤️ programming and currently working as Machine learning engineer. </p>
+<img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
+<h3 align="center"> Language & Skills </h3>
 
+- Python
+- C++
+- JavaScipt
+- Web Development
+- Machine Learning
+- Deep learning
+- Natural language processing
+- App Development
 
-**mortezaomidi24/mortezaomidi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">Things got bugs, gonna smash them one by one</h4>
 
-Here are some ideas to get you started:
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushi-droid&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![trophy](https://github-profile-trophy.vercel.app/?username=aayushi-droid&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+- 📝 I regulary write articles on [Aayushi's Blog](http://aayushi-droid.github.io/)
 
+<p align="center">
+<a href="https://dev.to/aayushidroid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aayushi-droid" height="40" width="40" /></a>
+</p>
+
+-----
+Credits: [aayushi-droid](https://github.com/aayushi-droid)
+
+Last Edited on: 27/12/2020
